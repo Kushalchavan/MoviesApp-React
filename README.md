@@ -1,8 +1,33 @@
-# React + Vite
+# Movies App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Movies App is a web application built with React, Tailwind CSS, and Firebase. It allows users to browse movies, view details, and manage their accounts using Firebase Authentication.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Browse Movies**: View a list of movies with details.
+- **Movie Details**: See detailed information about each movie.
+- **User Authentication**: Sign up, sign in, and sign out with Firebase Authentication.
+- **Responsive Design**: Fully responsive UI using Tailwind CSS.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Firebase**: Backend platform for authentication and real-time database.
+- **React Router**: For client-side routing.
+- **Redux**: For state management.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Kushalchavan/MoviesApp-React.git
